@@ -1,0 +1,8 @@
+{
+  "name": "AI Interview Master",
+  "description": "An intelligent mock interview application using Gemini Live API for real-time audio/video interaction and Gemini 3 Pro for deep context generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
